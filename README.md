@@ -1,9 +1,9 @@
 # Sign Language MNIST CNN Classifier with Real-Time Recognition
 
-##Project Overview:
+## Project Overview:
 This project implements a Convolutional Neural Network (CNN) to classify American Sign Language (ASL) alphabets using the Sign Language MNIST dataset. The trained model is integrated with OpenCV and MediaPipe for real-time hand gesture recognition using a webcam, converting sign language inputs to readable text.
 
-##Features:
+## Features:
 Classifies 24 static ASL alphabets (A-Y excluding J and Z).
 
 Preprocessing of image data from CSV format with normalization and reshaping.
